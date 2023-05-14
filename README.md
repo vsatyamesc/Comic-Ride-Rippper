@@ -11,4 +11,4 @@ on the folder directory run `pip install -r requirements.txt`
 - Whoosh! The Chapter is downloaded.
 
 
-## Made with love by Me!
+## Made by Me!
